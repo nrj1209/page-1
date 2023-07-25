@@ -29,14 +29,14 @@ const NonProfit = () => {
           </div>
           <div className="heading-2-container">
             <div className="heading-2-innner-container">
-              <h2 className="heading-2">Serving India since</h2>
+              <h2 className="heading-2">Serving India Since</h2>
               <h2 className="heading-3">1873</h2>
-            </div>
+          </div>
           </div>
         </div>
         <div className="circle-container">
           <LeftChild image={image1} title="Education" />
-          <RightChild image={image2} title="knowledge" />
+          <RightChild image={image2} title="Knowledge" />
           <LeftChild image={image6} title="Economic Growth" />
           <RightChild image={image4} title="National Unity" />
           <LeftChild image={image5} title="Healthcare" />
